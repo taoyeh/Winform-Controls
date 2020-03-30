@@ -1,0 +1,10 @@
+E:\TYH\Windows程序设计\Controls\Controls\bin\Debug\Controls.exe.config
+E:\TYH\Windows程序设计\Controls\Controls\bin\Debug\Controls.exe
+E:\TYH\Windows程序设计\Controls\Controls\bin\Debug\Controls.pdb
+E:\TYH\Windows程序设计\Controls\Controls\obj\Debug\Controls.csprojAssemblyReference.cache
+E:\TYH\Windows程序设计\Controls\Controls\obj\Debug\Controls.Form1.resources
+E:\TYH\Windows程序设计\Controls\Controls\obj\Debug\Controls.Properties.Resources.resources
+E:\TYH\Windows程序设计\Controls\Controls\obj\Debug\Controls.csproj.GenerateResource.cache
+E:\TYH\Windows程序设计\Controls\Controls\obj\Debug\Controls.csproj.CoreCompileInputs.cache
+E:\TYH\Windows程序设计\Controls\Controls\obj\Debug\Controls.exe
+E:\TYH\Windows程序设计\Controls\Controls\obj\Debug\Controls.pdb
